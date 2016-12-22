@@ -1,0 +1,17 @@
+{
+  "name": "phinajsadvcal20161218",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daishihmr <daishi.hmr@gmail.com> (http://github.dev7.jp/)",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sourcemaps": "^1.9.1",
+    "gulp-watch": "^4.3.11"
+  }
+}
